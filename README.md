@@ -5,7 +5,7 @@ I wanted to find out which groups of employees are most likely to leave a compan
 
 I wanted to find out which groups of employees are most likely to leave a company, and where an HR team should look first. I explored the data in Python, calculated attrition rates by group with a script, and built a Power BI dashboard with filters for department, gender, and age.
 
-![Dashboard overview](visuals/.png)
+![Dashboard overview](visuals/IBM HR-Analytics Dashboard.pbix)
 
 **Tools:** Power BI, Python (pandas, matplotlib, seaborn)
 **Data:** 1,470 employees, 35 columns
